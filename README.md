@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Employee Directory
 
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+
+# Description
+
+Employee directory application created using react where user can view employee data, search employee or sort employee by name.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+**[Deployed Website](https://gaurikhandke.github.io/employee-directory/)**
 
-In the project directory, you can run:
+# User Story
 
-### `npm start`
+```
+As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Business Context
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+```
 
-### `npm test`
+# Screenshot
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+|Employee Directory Home Page| Search Employee
+|--|--
+|![Directory](assets/Images/EmployeeDirectory.png)|![Search Employee](assets/Images/Search.png)
 
-### `npm run build`
+# Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone this repository to your local machine.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Run `npm install` to install dependencies required for this project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Run command `npm start` : Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm run eject`
+# Technology
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. [React](https://reactjs.org/): React.js is a JavaScript library that can be used to build user interfaces. With React, users can create reusable components, and these components display data as it changes over time.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. [Create React App](https://facebook.github.io/create-react-app/docs/getting-started): Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Features
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Learn More
+2. User can view all employees data.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. User can search employee as well as sort employees by name.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. Project is deployed on github pages.
 
-### Code Splitting
+# License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project is licensed under MIT License.
 
-### Analyzing the Bundle Size
+# Contribution
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Please let me know how I can improve this project. Issues and pull requests are always welcome.
 
-### Making a Progressive Web App
+# Questions 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+If you have any questions about the repo, 
+contact me directly at [Email](mailto:khandkegauri@gmail.com).
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
