@@ -25,7 +25,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 |Employee Directory Home Page| Search Employee
 |--|--
-|![Directory](assets/Images/EmployeeDirectory.png)|![Search Employee](assets/Images/Search.png)
+|![Directory](assets/Images/Employee-Directory.png)|![Search Employee](assets/Images/EmployeeSearch.png)
 
 # Installation
 
